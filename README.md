@@ -150,4 +150,4 @@ If you find a bug, please report it at:
 * Main original dev repo https://github.com/horst3180/arc-theme/issues
 
 ### Full Preview
-![A full screenshot of the Arc theme](http://i.imgur.com/tD1OBQ3.png)
+![A full screenshot of the Arc theme](http://image.prntscr.com/image/5cbc6df33da9445b91d86ecb6e91d24d.png)
