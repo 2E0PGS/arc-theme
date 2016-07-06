@@ -7,218 +7,125 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
-   id="svg4306"
+   width="19"
+   height="19"
+   id="svg4875"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="minimize_dash_prelight.svg"
-   style="enable-background:new">
+   inkscape:version="0.91+devel r"
+   viewBox="0 0 19 19"
+   sodipodi:docname="minimize.svg">
   <defs
-     id="defs4308">
+     id="defs4877">
     <linearGradient
-       id="linearGradient3770">
+       inkscape:collect="always"
+       xlink:href="#linearGradient4809"
+       id="linearGradient4795"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1072.3622,-1053.3622)"
+       x1="2.0000153"
+       y1="1062.8622"
+       x2="16.999975"
+       y2="1062.8622" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4809">
       <stop
-         style="stop-color:#000000;stop-opacity:0.62827224;"
+         style="stop-color:#5a5955;stop-opacity:1"
          offset="0"
-         id="stop3772" />
+         id="stop4511" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.49803922;"
+         id="stop4517"
+         offset="0.50001228"
+         style="stop-color:#75746d;stop-opacity:1" />
+      <stop
+         style="stop-color:#8e8d88;stop-opacity:1"
          offset="1"
-         id="stop3774" />
+         id="stop4513" />
     </linearGradient>
     <linearGradient
-       id="linearGradient4882">
+       inkscape:collect="always"
+       xlink:href="#linearGradient4521"
+       id="linearGradient4797"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2125.7244,0)"
+       x1="-1070.3622"
+       y1="9.4999952"
+       x2="-1055.3622"
+       y2="9.4999952" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4521">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
-         id="stop4884" />
+         id="stop4523" />
       <stop
          style="stop-color:#ffffff;stop-opacity:0;"
          offset="1"
-         id="stop4886" />
+         id="stop4525" />
     </linearGradient>
     <linearGradient
-       id="linearGradient3784-6">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0.21568628;"
-         offset="0"
-         id="stop3786-4" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop3788-6" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4892">
-      <stop
-         id="stop4894"
-         offset="0"
-         style="stop-color:#2f3a42;stop-opacity:1;" />
-      <stop
-         id="stop4896"
-         offset="1"
-         style="stop-color:#1d242a;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4882-4">
-      <stop
-         id="stop4884-9"
-         offset="0"
-         style="stop-color:#728495;stop-opacity:1;" />
-      <stop
-         id="stop4886-9"
-         offset="1"
-         style="stop-color:#617c95;stop-opacity:0;" />
-    </linearGradient>
+       inkscape:collect="always"
+       xlink:href="#linearGradient4521"
+       id="linearGradient4799"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0357118,0,0,1.0357118,2163.6811,-0.33926172)"
+       x1="-1070.3622"
+       y1="9.4999952"
+       x2="-1055.3622"
+       y2="9.4999952" />
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#f0f1f2"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.000001"
-     inkscape:cx="10.337718"
-     inkscape:cy="9.0639316"
+     inkscape:zoom="23.716923"
+     inkscape:cx="5.8731397"
+     inkscape:cy="6.8250568"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="721"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
      inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
-     inkscape:snap-bbox="true"
-     inkscape:snap-global="true"
-     inkscape:snap-bbox-midpoints="false"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4314"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="12,12"
-       id="guide4316" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="12,12"
-       id="guide4318" />
-  </sodipodi:namedview>
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
   <metadata
-     id="metadata4311">
+     id="metadata4880">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Ebene 1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1028.3622)">
-    <g
-       style="display:inline"
-       id="titlebutton-min-hover-dark"
-       inkscape:label="#g6308"
-       transform="translate(-480,1218)">
-      <g
-         id="g4909-3-7"
-         style="display:inline;opacity:1"
-         transform="translate(-781,-432.63782)">
-        <ellipse
-           cy="255"
-           cx="1273"
-           style="display:inline;opacity:0.45;fill:#5f697f;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="path4068-7-5-9-6-7-2-1-6-1"
-           rx="6"
-           ry="6.0000005" />
-        <path
-           style="display:inline;opacity:0.37000002;fill:#15171c;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 1273,248 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -7,-7 z m 0,1 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 z"
-           id="path4068-7-5-9-6-7-2-5-23-4-3"
-           inkscape:connector-curvature="0" />
-        <g
-           style="display:inline;opacity:1;fill:#c0e3ff;fill-opacity:1"
-           id="g4834-0-4-5"
-           transform="translate(1265,247)">
-          <g
-             transform="translate(-81.0002,-967)"
-             style="display:inline;fill:#c0e3ff;fill-opacity:1"
-             inkscape:label="status"
-             id="layer9-3-4-15-6" />
-          <g
-             transform="translate(-81.0002,-967)"
-             inkscape:label="devices"
-             id="layer10-4-1-8-3"
-             style="fill:#c0e3ff;fill-opacity:1" />
-          <g
-             transform="translate(-81.0002,-967)"
-             inkscape:label="apps"
-             id="layer11-2-6-4-9"
-             style="fill:#c0e3ff;fill-opacity:1" />
-          <g
-             transform="translate(-81.0002,-967)"
-             inkscape:label="places"
-             id="layer13-5-4-8-0"
-             style="fill:#c0e3ff;fill-opacity:1" />
-          <g
-             transform="translate(-81.0002,-967)"
-             inkscape:label="mimetypes"
-             id="layer14-6-0-8-2"
-             style="fill:#c0e3ff;fill-opacity:1" />
-          <g
-             transform="translate(-81.0002,-967)"
-             style="display:inline;fill:#c0e3ff;fill-opacity:1"
-             inkscape:label="emblems"
-             id="layer15-52-1-7-5" />
-          <g
-             transform="translate(-81.0002,-967)"
-             style="display:inline;fill:#c0e3ff;fill-opacity:1"
-             inkscape:label="emotes"
-             id="g71291-3-9-9-9" />
-          <g
-             transform="translate(-81.0002,-967)"
-             style="display:inline;fill:#c0e3ff;fill-opacity:1"
-             inkscape:label="categories"
-             id="g4953-8-2-7-8" />
-          <g
-             transform="translate(-81.0002,-967)"
-             style="display:inline;fill:#c0e3ff;fill-opacity:1"
-             inkscape:label="actions"
-             id="layer12-45-6-2-7">
-            <path
-               sodipodi:nodetypes="ccccc"
-               style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#c4c7cc;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
-               id="rect9057-8-2-3"
-               d="m 86.0002,974 0,2 6,0 0,-2 z"
-               inkscape:connector-curvature="0" />
-          </g>
-        </g>
-      </g>
-      <rect
-         y="-185.63782"
-         x="484"
-         height="16"
-         width="16"
-         id="rect17883-11-4-0"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0" />
-    </g>
+     transform="translate(287.35715,-522.86219)">
+    <ellipse
+       style="fill:#f1c40f;fill-opacity:1;stroke:#d0aa0d;stroke-width:0.28122878;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4157"
+       cx="-277.85715"
+       cy="532.36218"
+       rx="5.859386"
+       ry="5.8593855"
+       inkscape:export-filename="/home/ionicabizau/Documents/foo/Flattiance/metacity-1/minimize.png"
+       inkscape:export-xdpi="8192"
+       inkscape:export-ydpi="8192" />
   </g>
 </svg>

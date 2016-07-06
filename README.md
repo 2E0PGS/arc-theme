@@ -2,19 +2,23 @@
 
 Arc is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
+## My Changes
+
+This is a custom version of the arc-theme. I have changed the minimise, maximise, close buttons and a couple extra for the unity desktop so it looks more like a apple computer. I believe this looks better than the icons that come with arc by default. The icons I am using to replace the default ones are from: https://github.com/anmoljagetia/Flatabulous
+
 ###Arc is available in three variants 
 
 #####Arc
 
-![A screenshot of the Arc theme](http://i.imgur.com/Ph5ObOa.png)
+![A screenshot of the Arc theme](https://i.imgur.com/luT6T5N.png)
 
 #####Arc-Darker
 
-![A screenshot of the Arc-Darker theme](http://i.imgur.com/NC6dqyl.png)
+![A screenshot of the Arc-Darker theme](https://i.imgur.com/c9nIa48.png)
 
 #####Arc-Dark
 
-![A screenshot of the Arc-Dark theme](http://i.imgur.com/5AGlCnA.png)
+![A screenshot of the Arc-Dark theme](https://i.imgur.com/Tx3it2m.png)
 
 
 ### Requirements
@@ -50,26 +54,6 @@ If your distribution isn't listed, please check the requirements yourself.
     rm -rf ~/.local/share/themes/{Arc,Arc-Darker,Arc-Dark}
     rm -rf ~/.themes/{Arc,Arc-Darker,Arc-Dark}
 
-#### Packages
-
-Prebuilt packages for Ubuntu, Debian, Fedora and openSUSE are available at  
-http://software.opensuse.org/download.html?project=home%3AHorst3180&package=arc-theme  
-
-A non-transparent version of the theme is available here  
-http://software.opensuse.org/download.html?project=home%3AHorst3180&package=arc-theme-solid  
-
-**Note:** elementary OS Freya users can install the package for Ubuntu 15.04
-
---
-
-Arch Linux users can install the theme from the AUR
-
-**Official Releases**: https://aur.archlinux.org/packages/gtk-theme-arc/  
-
-**Development Releases**: https://aur.archlinux.org/packages/gtk-theme-arc-git/  
-
-**Note:** If you're having trouble with the AUR packages please email the package maintainer at zach@zach-adams.com before creating an issue.
-
 #### Manual Installation
 
 To build the theme you'll need 
@@ -79,6 +63,9 @@ To build the theme you'll need
 * `libgtk-3-dev` for Debian based distros or `gtk3-devel` for RPM based distros
 * `git` if you want to clone the source directory
 
+Quick install of deps:
+* `sudo apt-get install autoconf automake libgtk-3-dev git`
+
 If your distributions doesn't ship separate development packages you just need GTK 3 instead of the `-dev` packages.
 
 Install the theme with the following commands
@@ -87,7 +74,7 @@ Install the theme with the following commands
 
 If you want to install the latest version from git, clone the repository with
 
-    git clone https://github.com/horst3180/arc-theme --depth 1 && cd arc-theme
+    git clone https://github.com/2E0PGS/arc-theme-apple/ --depth 1 && cd arc-theme-apple
 
 **2. Build and install the theme**
 
@@ -126,6 +113,9 @@ from the same directory as this README resides in, or
 
 ### Extras
 
+#### Numix-Circle
+The icon theme I use in the screenshots above https://github.com/numixproject/numix-icon-theme-circle
+
 #### Arc Firefox theme
 A theme for Firefox is available at https://github.com/horst3180/arc-firefox-theme
 
@@ -155,8 +145,9 @@ If you get artifacts like black or invisible backgrounds under Unity, disable ov
 
 
 ### Bug reporting
-If you find a bug, please report it at https://github.com/horst3180/arc-theme/issues
+If you find a bug, please report it at:
+* My repo https://github.com/2E0PGS/arc-theme-apple/issues
+* Main original dev repo https://github.com/horst3180/arc-theme/issues
 
 ### Full Preview
-![A full screenshot of the Arc theme](http://i.imgur.com/tD1OBQ3.png)
-<sub>Screenshot Details: Icons: [Arc](https://github.com/horst3180/arc-icon-theme) | Launcher Icons based on [White Pixel Icons](http://darkdawg.deviantart.com/art/White-Pixel-Icons-252310560) | [Wallpaper](https://pixabay.com/photo-869593/) | Font: Futura Bk bt</sub>
+![A full screenshot of the Arc theme](http://image.prntscr.com/image/5cbc6df33da9445b91d86ecb6e91d24d.png)
