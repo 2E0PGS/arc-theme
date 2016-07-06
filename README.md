@@ -74,7 +74,7 @@ Install the theme with the following commands
 
 If you want to install the latest version from git, clone the repository with
 
-    git clone https://github.com/2E0PGS/arc-theme-apple/ --depth 1 && cd arc-theme
+    git clone https://github.com/2E0PGS/arc-theme-apple/ --depth 1 && cd arc-theme-apple
 
 **2. Build and install the theme**
 
