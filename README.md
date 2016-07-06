@@ -10,7 +10,7 @@ This is a custom version of the arc-theme. I have changed the minimise, maximise
 
 #####Arc
 
-![A screenshot of the Arc theme](https://i.imgur.com/Ph5ObOa.png)
+![A screenshot of the Arc theme](https://i.imgur.com/luT6T5N.png)
 
 #####Arc-Darker
 
