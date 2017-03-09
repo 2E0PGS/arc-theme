@@ -6,6 +6,8 @@ Arc is a flat theme with transparent elements for GTK 3, GTK 2 and GNOME Shell w
 
 This is a custom version of the arc-theme. I have changed the minimise, maximise, close buttons and a couple extra for the unity desktop so it looks more like a apple computer. I believe this looks better than the icons that come with arc by default. The icons I am using to replace the default ones are from: https://github.com/anmoljagetia/Flatabulous
 
+Currently deprecated due to an exsisting project doing the same thing: https://github.com/andreisergiu98/arc-flatabulous-theme
+
 ###Arc is available in three variants 
 
 #####Arc
